@@ -2,3 +2,10 @@
   max-height: 35vh;
   overflow: hidden;
 }
+ion-card{
+  --background: #021b46;
+  --color: #fff;
+}
+.social-cards ion-col {
+  padding: 0;
+}
